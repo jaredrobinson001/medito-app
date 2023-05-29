@@ -1,7 +1,5 @@
 # Medito App
 
-Meditation can positively transform people's lives. We believe no one should have to pay for it. 
-
 I've built the Medito App for people who have never meditated before or want to deepen their meditation practice. 
 
 The app is free, forever: no ads, no spam, no need to sign up or pay. 
